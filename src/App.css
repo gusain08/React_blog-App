@@ -1,0 +1,57 @@
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background: #000;
+}
+
+nav  a{
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: capitalize\;
+}
+
+
+.post_page {
+  max-width: 800px;
+  margin:  0 auto;
+  background: #000;
+  color: #fff;
+}
+
+
+
+.create_post {
+  padding: 15px;
+}
+
+
+.inputGp input {
+  width: 90%;
+  display: block;
+  height: 30px;
+
+  font-size: 20px;
+  padding: 10px;
+}
+
+.inputGp > label {
+  display: block;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.inputGp > textarea {
+  width: 90%;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.create_post button {
+  width: 93%;
+  display: block;
+  padding: 10px;
+}
